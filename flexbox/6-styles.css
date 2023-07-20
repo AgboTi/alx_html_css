@@ -217,6 +217,7 @@
         font-size: var(--nav-item-font-size);
         letter-spacing: var(--nav-item-letter-spacing);
         margin: 0 0 0 2rem;
+        margin: var(--na-item-margin);
       }
       
       .nav .nav-link {
